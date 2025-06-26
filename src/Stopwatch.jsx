@@ -12,8 +12,26 @@ function Stopwatch(){
 
     },[isRunning]);
 
+    function start(){
+
+    }
+
+    function stop(){
+
+    }
+
+    function reset(){
+
+    }
+
+    function formatTime(){
+
+    }
+
     return(
-        <div></div>
+        <div >
+
+        </div>
     )
 
 }
