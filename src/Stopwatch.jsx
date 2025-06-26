@@ -8,6 +8,10 @@ function Stopwatch(){
     const invervalIDRef = useRef(null)
     const startTimeRef = useRef(0);
 
+    useEffect(()=>{
+
+    },[isRunning]);
+
     return(
         <div></div>
     )
